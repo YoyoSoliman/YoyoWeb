@@ -18,7 +18,7 @@ body {
   justify-content: center;
   height: 100vh;
   padding: 2rem;
-  animation: fadeIn 0.8s ease-out;
+  animation: fadeIn 0.8s ease-out 0.2s both;
 }
 
 h1 {
